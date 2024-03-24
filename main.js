@@ -14,5 +14,3 @@ console.log('Hello World!')
 // git status
 
 // git clone Link
-
-// git 
